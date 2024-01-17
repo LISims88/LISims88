@@ -1,20 +1,22 @@
 # Welcome!
 
+### About Me
+
 Hi, I’m @LISims88, also known as Lydia. I'm a dedicated student at Turing School of Software and Design on a transformative journey into the world of technology. I have background in Clinical Counseling Psychology, with a Bachelor's in Psychology and a Master's in Nonprofit Management.
 
-- 🌱 I’m currently learning ...
+### 🌱 I’m currently learning
 
 The foundations of JavaScript, HTML, CSS. Once I have mastered this I hope to move on to React and ultimately learn Python.
 
-- 📫 How to reach me ...
+### 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydia-sims/)
 
-- 😄 Pronouns: ...
+### 😄 Pronouns:
 
 She/Her/They
 
-- ⚡ Fun fact: ...
+### ⚡ Fun fact:
 
 I am an avid reader and have read more than 600 books in the last 3 years
 
