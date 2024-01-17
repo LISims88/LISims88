@@ -7,8 +7,8 @@
 The foundations of JavaScript, HTML, CSS. Once I have mastered this I hope to move on to React and ultimately learn Python.
 
 - 📫 How to reach me ...
-  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lydia-sims)
+- 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydia-sims/)
 
 
 
