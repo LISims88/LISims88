@@ -6,7 +6,7 @@ Hi, I’m @LISims88, also known as Lydia. I'm a dedicated student at Turing Scho
 
 ### 🌱 I’m currently learning
 
-The foundations of JavaScript, HTML, CSS. Once I have mastered this I hope to move on to React and ultimately learn Python.
+TypeScript.  I want to Learn Ruby, and Python. 
 
 ### 📫 How to reach me
 
