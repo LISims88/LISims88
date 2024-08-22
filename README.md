@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi, I’m @LISims88, also known as Lydia. I'm a dedicated student at Turing School of Software and Design on a transformative journey into the world of technology. I have background in Clinical Counseling Psychology, with a Bachelor's in Psychology and a Master's in Nonprofit Management.
+Hi, I’m @LISims88, also known as Lydia. I'm a recent graduate of  Turing School of Software and Design on a transformative journey into the world of technology. I have background in Clinical Counseling Psychology, with a Bachelor's in Psychology and a Master's in Nonprofit Management.
 
 ### 🌱 I’m currently learning
 
