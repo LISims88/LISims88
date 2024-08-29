@@ -6,7 +6,7 @@ Hi, I’m @LISims88, also known as Lydia. I'm a recent graduate of  Turing Schoo
 
 ### 🌱 I’m currently learning
 
-TypeScript.  I want to Learn Ruby, and Python. 
+TypeScript and Wordpress.  I want to Learn Ruby on Rails, and Python. 
 
 ### 📫 How to reach me
 
