@@ -12,9 +12,16 @@ A writing companion application designed to help writers organize stories, track
 
 Tech: React Native, Expo, TypeScript, Zustand, AsyncStorage 
 
-### ❤️ Love Library (Future Project Expansion)
+### ❤️ Love Library 
+(Future Project Expansion)
 
 A book discovery application that connects music taste with literary recommendations by translating the emotion and themes of songs into
+
+### 💰 Fruga Budget
+
+A budgeting application that helps users visualize spending habits and make informed financial decisions.
+
+Tech: React, TypeScript, Chart.js, Express, PostgreSQL
 
 ## 🛠 Tech Stack
 
