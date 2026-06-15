@@ -15,14 +15,16 @@ Tech: React Native, Expo, TypeScript, Zustand, AsyncStorage
 ### ❤️ Love Library 
 (Future Project Expansion)
 
-A book discovery application that connects music taste with literary recommendations by translating the emotion and themes of songs into
+A book discovery application that connects music taste with literary recommendations by translating the emotion and themes of songs into reading suggestions.
+
+Tech: React, Express, PostgreSQL
+
 
 ### 💰 Fruga Budget
 
 A budgeting application that helps users visualize spending habits and make informed financial decisions.
 
-Tech: React, TypeScript, Chart.js, Express, PostgreSQL
-
+Tech: Vite + React, TypeScript, Chart.js
 ## 🛠 Tech Stack
 
 ### Frontend
