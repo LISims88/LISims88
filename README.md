@@ -12,7 +12,7 @@ A writing companion application designed to help writers organize stories, track
 
 Tech: React Native, Expo, TypeScript, Zustand, AsyncStorage 
 
-### ❤️ Love Library (Future Project)
+### ❤️ Love Library (Future Project Expansion)
 
 A book discovery application that connects music taste with literary recommendations by translating the emotion and themes of songs into
 
