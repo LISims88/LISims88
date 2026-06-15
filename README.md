@@ -1,24 +1,57 @@
-# Welcome!
+# Hi, I'm Lydia 👋
 
-### About Me
+I'm a full-stack JavaScript developer and former financial counselor who builds software focused on creativity, organization, and everyday problem solving.
 
-Hi, I’m @LISims88, also known as Lydia. I'm a recent graduate of  Turing School of Software and Design on a transformative journey into the world of technology. I have background in Clinical Counseling Psychology, with a Bachelor's in Psychology and a Master's in Nonprofit Management.
+My journey with technology started by customizing MySpace pages as a teenager and evolved into a passion for creating applications that help people tell stories, manage their finances, and bring their ideas to life.
 
-### 🌱 I’m currently learning
+## 🌱 Currently Building
 
-TypeScript and Wordpress.  I want to Learn Ruby on Rails, and Python. 
+### ✍️ Writer's Revenge
 
-### 📫 How to reach me
+A writing companion application designed to help writers organize stories, track drafting sessions, and develop sustainable creative habits.
+
+Tech: React Native, Expo, TypeScript, Zustand, AsyncStorage 
+
+### ❤️ Love Library (Future Project)
+
+A book discovery application that connects music taste with literary recommendations by translating the emotion and themes of songs into
+
+## 🛠 Tech Stack
+
+### Frontend
+
+* React
+* TypeScript
+* JavaScript
+* HTML
+* CSS/SCSS
+
+### Backend
+
+* Node.js
+* Express
+* PostgreSQL
+* REST APIs
+
+### Testing & Tools
+
+* Git
+* GitHub
+* Cypress
+* Mocha/Chai
+* Postman
+* Figma
+
+## 📖 Beyond Code
+
+When I'm not coding, you'll probably find me reading a fantasy romance novel, writing, crocheting, or thinking about my next app idea.
+
+## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydia-sims/)
 
-### 😄 Pronouns:
+Portfolio [Coming Soon]
 
-She/Her/They
-
-### ⚡ Fun fact:
-
-I am an avid reader and have read more than 600 books in the last 3 years
 
 <!---
 LISims88/LISims88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
